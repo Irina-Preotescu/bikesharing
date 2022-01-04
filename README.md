@@ -18,6 +18,11 @@ The analysis is focused on the following, with the purpose of proving to investo
 * There is a description of the results for each visualization
 
 
+![Checkout times for users viz_fig1](https://github.com/Irina-Preotescu/bikesharing/blob/d988ce4ef177d8ccf36eb3b2cdbf2a92c6d6dd11/Checkout%20times%20for%20users%20viz_fig1.png)
+
+Description:
+
+
 ![Checkout times by gender viz_fig2](https://github.com/Irina-Preotescu/bikesharing/blob/a8bd34007a9b88e15aea43fc2b1fcad45fefbdad/Checkout%20times%20by%20gender%20viz_fig2.png)
 
 Description:
